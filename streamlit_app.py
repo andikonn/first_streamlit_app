@@ -3,6 +3,6 @@ import streamlit
 streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
-streamlit.text('Bacon, Eggs and Cheese Bagel')
-streamlit.text('Pan Cakes and Strawberries')
-streamlit.text('Big American Breakfast')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
